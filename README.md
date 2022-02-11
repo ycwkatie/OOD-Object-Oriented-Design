@@ -9,13 +9,13 @@ Also available on 小红书@龙猫的大耳朵
 
 \# | Title | Solution
 ---|---|---
-1 | Library Management System | 
-2 | Parking Lot |
-3 | Amazon (Online Shopping System) |
-4 | Stack Overflow |
+1 | Library Management System | [Solution](ood/library_management.md)
+2 | Amazon Locker | [Solution](ood/amazon_locker.md)
+3 | Airline Management System | [Solution](ood/airline_management.md)
+4 | Unix File Search |  [Solution](ood/file_search.md)
 5 | Movie Ticket Booking System (BookMyShow) |
 6 | ATM |
-7 | Airline Management System |
+7 | Amazon (Online Shopping System) |
 8 | Blackjack and a Deck of Cards |
 9 | Hotel Management System |
 10 | Restaurant Management System |
@@ -30,8 +30,9 @@ Also available on 小红书@龙猫的大耳朵
 19 | Blog Site |
 20 | Food Delivery | 
 21 | Vending Machine |
-22 | raffic Lights |
+22 | Traffic Lights |
 23 | Elevator |
 24 | Meeting Scheduler |
 25 | Car Rental |
-26 | Unix File Search | 
+26 | Stack Overflow | 
+27 | Parking Lot |
