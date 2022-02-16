@@ -5,8 +5,6 @@ OOD problems are frequently asked during technical interviews for new grad and e
 
 [Under construction]
 
-Also available on 小红书@龙猫的大耳朵
-
 \# | Title | Solution
 ---|---|---
 1 | Library Management System | [Solution](ood/library_management.md)
@@ -19,7 +17,7 @@ Also available on 小红书@龙猫的大耳朵
 8 | Blackjack and a Deck of Cards | [Solution](ood/blackjack.md)
 9 | Hotel Management System | [Solution](ood/hotel.md)
 10 | Restaurant Management System | [Solution](ood/restaurant.md)
-11 | Chess |
+11 | Chess | [Solution](ood/chess.md)
 12 | Online Stock Brokerage System |
 13 | Linkedin |
 14 | Crickinfo (Sports Website) |
@@ -35,4 +33,6 @@ Also available on 小红书@龙猫的大耳朵
 24 | Meeting Scheduler |
 25 | Car Rental |
 26 | Stack Overflow | 
-27 | Parking Lot |
+27 | Parking Lot | [Solution](ood/parking_lot.md)
+
+Also available on 小红书@龙猫的大耳朵
