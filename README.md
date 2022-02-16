@@ -16,9 +16,9 @@ Also available on 小红书@龙猫的大耳朵
 5 | Movie Ticket Booking System (BookMyShow) |
 6 | ATM |
 7 | Amazon (Online Shopping System) |
-8 | Blackjack and a Deck of Cards |
-9 | Hotel Management System |
-10 | Restaurant Management System |
+8 | Blackjack and a Deck of Cards | [Solution](ood/blackjack.md)
+9 | Hotel Management System | [Solution](ood/hotel.md)
+10 | Restaurant Management System | [Solution](ood/restaurant.md)
 11 | Chess |
 12 | Online Stock Brokerage System |
 13 | Linkedin |
@@ -29,9 +29,9 @@ Also available on 小红书@龙猫的大耳朵
 18 | Calendar |
 19 | Blog Site |
 20 | Food Delivery | 
-21 | Vending Machine |
+21 | Vending Machine | [Solution](ood/vending_machine.md)
 22 | Traffic Lights |
-23 | Elevator |
+23 | Elevator | [Solution](ood/elevator.md)
 24 | Meeting Scheduler |
 25 | Car Rental |
 26 | Stack Overflow | 
