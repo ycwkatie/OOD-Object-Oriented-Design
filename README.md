@@ -11,7 +11,7 @@ OOD problems are frequently asked during technical interviews for new grad and e
 2 | Amazon Locker | [Solution](ood/amazon_locker.md)
 3 | Airline Management System | [Solution](ood/airline_management.md)
 4 | Unix File Search |  [Solution](ood/file_search.md)
-5 | Movie Ticket Booking System (BookMyShow) |
+5 | Movie Ticket Booking System (BookMyShow) | [Solution](ood/movie_ticket.md)
 6 | ATM |
 7 | Amazon (Online Shopping System) |
 8 | Blackjack and a Deck of Cards | [Solution](ood/blackjack.md)
