@@ -34,5 +34,3 @@ OOD problems are frequently asked during technical interviews for new grad and e
 25 | Car Rental |
 26 | Stack Overflow | 
 27 | Parking Lot | [Solution](ood/parking_lot.md)
-
-Also available on 小红书@龙猫的大耳朵
