@@ -12,8 +12,8 @@ OOD problems are frequently asked during technical interviews for new grad and e
 3 | Airline Management System | [Solution](ood/airline_management.md)
 4 | Unix File Search |  [Solution](ood/file_search.md)
 5 | Movie Ticket Booking System (BookMyShow) | [Solution](ood/movie_ticket.md)
-6 | ATM |
-7 | Amazon (Online Shopping System) |
+6 | ATM | [Solution](ood/atm.md)
+7 | Amazon (Online Shopping System) | [Solution](ood/amazon.md)
 8 | Blackjack and a Deck of Cards | [Solution](ood/blackjack.md)
 9 | Hotel Management System | [Solution](ood/hotel.md)
 10 | Restaurant Management System | [Solution](ood/restaurant.md)
@@ -34,5 +34,8 @@ OOD problems are frequently asked during technical interviews for new grad and e
 25 | Car Rental |
 26 | Stack Overflow | 
 27 | Parking Lot | [Solution](ood/parking_lot.md)
+28 | Tic Tac Toe | [Solution](ood/tic_tac_toe.md)
+29 | Kindle | [Solution](ood/kindle.md)
+30 | Coffee Maker | [Solution](ood/coffee_maker.md)
 
 小红书@龙猫大耳朵 OOD合集整理
