@@ -18,7 +18,7 @@ OOD problems are frequently asked during technical interviews for new grad and e
 9 | Hotel Management System | [Solution](ood/hotel.md)
 10 | Restaurant Management System | [Solution](ood/restaurant.md)
 11 | Chess | [Solution](ood/chess.md)
-12 | Online Stock Brokerage System |
+12 | Online Stock Brokerage System | [Solution](ood/brokerage.md)
 13 | Linkedin |
 14 | Crickinfo (Sports Website) |
 15 | Facebook (Social Network) |
